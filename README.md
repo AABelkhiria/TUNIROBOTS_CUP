@@ -1,6 +1,8 @@
 # TUNIROBOTS_CUP
 
+![alt text][logo]
 
+[logo]: https://github.com/AABelkhiria/TUNIROBOTS_CUP/blob/master/Logo.png
 
 The TUNIROBOTS CUP competition, organized as part of Tunisia's national robotics day TUNIROBOTS17, is a fun and technological challenge.
 This meeting is for young people passionate about robotics and new technologies.
