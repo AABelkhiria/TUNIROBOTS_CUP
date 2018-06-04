@@ -43,7 +43,7 @@ It is nevertheless allowed to protect the points already marked.
 
 ## The game
 
-At the signal of the referee, each robot is started.
+At the signal of the referee, each robot starts.
 After 120 seconds, the robots can no longer move.
 At the end of the match, no one except the referee can touch the robots and the game elements.
 The referees count the points; they give the result of the match, including points to the teams.
