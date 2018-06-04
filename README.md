@@ -4,7 +4,7 @@
 
 [logo]: https://github.com/AABelkhiria/TUNIROBOTS_CUP/blob/master/Logo.png
 
-The TUNIROBOTS CUP competition, organized as part of Tunisia's national robotics day TUNIROBOTS17, is a fun and technological challenge.
+The TUNIROBOTS CUP competition, organized as part of [Tunisia's national robotics day](http://tunirobots.com) TUNIROBOTS17, is a fun and technological challenge.
 This meeting is for young people passionate about robotics and new technologies.
 Participants in the TUNIROBOTS CUP come with the goal of sharing their knowledge and skills in science, party around a smoking engine and admire the tips and invented systems.
 
@@ -31,3 +31,20 @@ Once inside the battle zone, the robots collect the battle stones associated wit
 
 By attacking the guardian of the cave, the robot has the opportunity to acquire the treasure (5 more hunting stones).
 The attack is done by throwing a stone into the cave.
+
+## Generalities
+
+* Each team can register at maximum two robots : "Main robot" and "Secondary robot".
+* The main robot must be autonomous. The secondary robot can be remote controlled but not wire-guided.
+* Both actions, "Bird Hunt" and "Unlocking Battle Zone by Saw" can only be performed by the primary autonomous robot.
+* A robot must not prevent the opponent from scoring points.
+If the robot remains static (for example if it has finished an action), it must as far as possible move to another place.
+It is nevertheless allowed to protect the points already marked.
+
+## The game
+
+At the signal of the referee, each robot is started.
+After 120 seconds, the robots can no longer move.
+At the end of the match, no one except the referee can touch the robots and the game elements.
+The referees count the points; they give the result of the match, including points to the teams.
+
